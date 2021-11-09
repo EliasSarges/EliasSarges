@@ -4,7 +4,7 @@
 - **2 anos de desenvolvimento javascript** 
 - **Desenvolvedor front-end em React e backend em Node.JS** 
 - **Estou aprendendo Clean Architecture com TDD** 
-- **Guitarrista nas horas vagas 🎸
+- **Guitarrista nas horas vagas 🎸**
 
 ## 
 <div align="center"> 
