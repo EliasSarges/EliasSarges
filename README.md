@@ -1,4 +1,4 @@
-## Front end developer atuando com React e Typescript, atualmente estuando flutter, clean architecture e TDD. 
+## Front end developer atuando com React e Typescript. 
 
 ## Me 
 - **2 anos de desenvolvimento javascript** 
