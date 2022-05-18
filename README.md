@@ -1,9 +1,9 @@
-## Salve, Tenho 21 anos e com muita vontade de aprender, atualmente atuando como desenvolvedor full stack com javascript, porém, sempre aberto a novas possibilidades. 
+## Front end developer atuando com React e Typescript, atualmente estuando flutter, clean architecture e TDD. 
 
 ## Me 
 - **2 anos de desenvolvimento javascript** 
 - **Desenvolvedor front-end em React e backend em Node.JS** 
-- **Estou aprendendo Clean Architecture com TDD** 
+- **Estou aprendendo Flutter e Clean Architecture com TDD** 
 - **Guitarrista nas horas vagas 🎸**
 
 ## 
